@@ -1,4 +1,4 @@
-print("Hola!")
-print("Hola, mundo!")
-print("Hola, universo!")
-print("Hola, multiverson!")
+print("hola!")
+print("hola, mundo!")
+print("hola, universo!")
+
